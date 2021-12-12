@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Vagabond sack",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/0-0.jpg",
+    "price" : "Rp 1.200.000"
+  },
+  {
+    "title": "Stella sunglasses",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/1-0.jpg",
+    "price": "Rp 580.000"
+  },
+  {
+    "title": "Whitney belt",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/2-0.jpg",
+    "price": "Rp 350.000"
+  },
+  {
+    "title": "Garden strand",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/3-0.jpg",
+    "price": "Rp 980.000"
+  },
+  {
+    "title": "Strut earrings",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/4-0.jpg",
+    "price": "Rp 340.000"
+  },
+  {
+    "title": "Varsity socks",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/5-0.jpg",
+    "price": "Rp 120.000"
+  },
+  {
+    "title": "Weave keyring",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/6-0.jpg",
+    "price": "Rp 160.000"
+  },
+  {
+    "title": "Gatsby hat",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/7-0.jpg",
+    "price": "Rp 400.000"
+  },
+  {
+    "title": "Shrug bag",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/8-0.jpg",
+    "price": "Rp 1.980.000"
+  },
+  {
+    "title": "Gilt desk trio",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/9-0.jpg",
+    "price": "Rp 580.000"
+  },
+  {
+    "title": "Copper wire rack",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/10-0.jpg",
+    "price": "Rp 180.000"
+  },
+  {
+    "title": "Soothe ceramic set",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/11-0.jpg",
+    "price": "Rp 280.000"
+  },
+  {
+    "title": "Hurrahs tea set",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/12-0.jpg",
+    "price": "Rp 340.000"
+  },
+  {
+    "title": "Blue stone mug",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/13-0.jpg",
+    "price": "Rp 180.000"
+  },
+  {
+    "title": "Rainwater tray",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/14-0.jpg",
+    "price": "Rp 270.000"
+  },
+  {
+    "title": "Chambray napkins",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/15-0.jpg",
+    "price": "Rp 160.000"
+  },
+  {
+    "title": "Succulent planters",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/16-0.jpg",
+    "price": "Rp 160.000"
+  },
+  {
+    "title": "Quartet table",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/17-0.jpg",
+    "price": "Rp 1750.000"
+  },
+  {
+    "title": "Kitchen quattro",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/18-0.jpg",
+    "price": "Rp 1.290.000"
+  },
+  {
+    "title": "Clay sweater",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/19-0.jpg",
+    "price": "Rp 480.000"
+  },
+  {
+    "title": "Sea tunic",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/20-0.jpg",
+    "price": "Rp 450.000"
+  },
+  {
+    "title": "Plaster tunic",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/21-0.jpg",
+    "price": "Rp 380.000"
+  },
+  {
+    "title": "White pinstripe shirt",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/22-0.jpg",
+    "price": "Rp 700.000"
+  },
+  {
+    "title": "Chambray shirt",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/23-0.jpg",
+    "price": "Rp 70"
+  },
+  {
+    "title": "Seabreeze sweater",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/24-0.jpg",
+    "price": "Rp 600.000"
+  },
+  {
+    "title": "Gentry jacket",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/25-0.jpg",
+    "price": "Rp 1780.000"
+  },
+  {
+    "title": "Navy trousers",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/26-0.jpg",
+    "price": "Rp 74"
+  },
+  {
+    "title": "Walter henley (white)",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/27-0.jpg",
+    "price": "Rp 38"
+  },
+  {
+    "title": "Surf and perf shirt",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/28-0.jpg",
+    "price": "Rp 480.000"
+  },
+  {
+    "title": "Ginger scarf",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/29-0.jpg",
+    "price": "Rp 980.000"
+  },
+  {
+    "title": "Ramona crossover",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/30-0.jpg",
+    "price": "Rp 680.000"
+  },
+  {
+    "title": "Chambray shirt",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/31-0.jpg",
+    "price": "Rp 580.000"
+  },
+  {
+    "title": "Classic white collar",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/32-0.jpg",
+    "price": "Rp 580.000"
+  },
+  {
+    "title": "Cerise scallop tee",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/33-0.jpg",
+    "price": "Rp 420.000"
+  },
+  {
+    "title": "Shoulder rolls tee",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/34-0.jpg",
+    "price": "Rp 270.000"
+  },
+  {
+    "title": "Grey slouch tank",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/35-0.jpg",
+    "price": "Rp 240.000"
+  },
+  {
+    "title": "Sunshirt dress",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/36-0.jpg",
+    "price": "Rp 580.000"
+  },
+  {
+    "title": "Fine lines tee",
+    "url": "https://raw.githubusercontent.com/material-components/material-components-flutter-codelabs-packages/develop/shrine_images/lib/37-0.jpg",
+    "price": "Rp 580.000"
+  }
+]

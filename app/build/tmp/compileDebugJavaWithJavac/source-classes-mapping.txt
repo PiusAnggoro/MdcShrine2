@@ -1,0 +1,2 @@
+com/piusanggoro/mdc102shrine/BuildConfig.java
+ com.piusanggoro.mdc102shrine.BuildConfig
